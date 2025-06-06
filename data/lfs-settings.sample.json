@@ -1,0 +1,18 @@
+{
+  "repositories": {
+    "YOUR_REPO_NAME_01": {
+      "files": [
+        "lib/games/vendors/evaluator/data/MyLargeFile.dat"
+      ]
+    },
+    "YOUR_REPO_NAME_02": {
+      "patterns": [
+        "**/*.mp4"
+      ]
+    },
+    "YOUR_REPO_NAME_03": {
+      "autoDetect": true,
+      "comment": "Auto detect large files, because the content may change"
+    }
+  }
+} 
