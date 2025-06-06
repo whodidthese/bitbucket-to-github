@@ -355,7 +355,7 @@ Can easily extend the following features:
 
 ## 🏆 Version Update Summary
 
-### v2.0 Major Update (2024)
+### v2.0 Major Update
 
 **🔥 Core Feature Improvements**:
 - Added historical file detection feature, solving push issues with deleted large files
